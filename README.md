@@ -75,7 +75,9 @@
 
 Главное меню и меню паузы.
 
-## Плагины
+## Заимствования
+
+### Плагины
 
 [Electronic Nodes](https://www.unrealengine.com/marketplace/en-US/product/electronic-nodes)
 - необязателен
@@ -84,3 +86,9 @@
 [UI Navigation 3.0](https://www.unrealengine.com/marketplace/en-US/product/ui-navigation-3)
 - обязателен
 - использован для главного меню
+
+### Основные ассеты
+
+[Medieval Dungeon](https://www.unrealengine.com/marketplace/en-US/product/a5b6a73fea5340bda9b8ac33d877c9e2)
+
+[Third Person шаблон из Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5)
